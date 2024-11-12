@@ -1,0 +1,4 @@
+{
+  "scan-component": "github.com/go-kid/scan-component",
+  "kioc": "github.com/go-kid/kioc"
+}
